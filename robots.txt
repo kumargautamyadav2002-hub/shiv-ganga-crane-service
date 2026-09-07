@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kumargautamyadav2002-hub.github.io/shiv-ganga-crane-service-new/sitemap.xml
